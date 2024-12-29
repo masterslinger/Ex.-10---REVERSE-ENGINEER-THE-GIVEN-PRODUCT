@@ -33,10 +33,11 @@
 ## Input:
 
 ### Output:
+![image](https://github.com/user-attachments/assets/ec432710-5640-4150-ac9a-847e47f6e62b)
 
 
-### Name:
-### Register Number:
+### Name: Syed Abu Hanifa
+### Register Number: 24009356
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
